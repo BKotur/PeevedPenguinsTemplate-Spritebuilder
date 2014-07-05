@@ -124,8 +124,9 @@
     }
 }
 
-
-
+-(void)sealRemoved:(CCNode *)seal {
+    [seal removeFromParent];
+}
 
 -(void)launchPenguin {
     // loads the Penguin.ccb we have set up in Spritebuilder
