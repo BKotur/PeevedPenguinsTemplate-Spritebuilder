@@ -124,9 +124,7 @@
     }
 }
 
--(void)sealRemoved:(CCNode *)seal {
-    [seal removeFromParent];
-}
+
 
 
 -(void)launchPenguin {
