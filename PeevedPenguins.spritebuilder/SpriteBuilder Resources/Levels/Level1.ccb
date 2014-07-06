@@ -71,7 +71,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -225,7 +225,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -379,7 +379,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -533,7 +533,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -687,7 +687,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -808,8 +808,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -843,7 +841,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1369,7 +1367,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1490,6 +1488,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -1523,7 +1523,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1677,7 +1677,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>50</real>
+					<real>75</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
