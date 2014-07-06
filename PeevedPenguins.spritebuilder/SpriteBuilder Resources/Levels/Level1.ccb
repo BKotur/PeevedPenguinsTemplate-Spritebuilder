@@ -71,7 +71,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -225,7 +225,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -290,7 +290,7 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>56</real>
+							<real>55</real>
 							<real>69</real>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -379,7 +379,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -533,7 +533,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -687,7 +687,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -843,7 +843,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>30</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1369,7 +1369,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>1</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1523,7 +1523,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>1</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
@@ -1677,7 +1677,7 @@
 					<key>cornerRadius</key>
 					<real>0.0</real>
 					<key>density</key>
-					<real>1</real>
+					<real>50</real>
 					<key>dynamic</key>
 					<true/>
 					<key>elasticity</key>
